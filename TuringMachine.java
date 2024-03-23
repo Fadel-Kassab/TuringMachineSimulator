@@ -1,4 +1,4 @@
-// The following is a TuringMachine class that simulates any single-tape deterministic turing machine with the illusion of infinite memory ofcourse 
+// The following is a TuringMachine class that simulates any single-tape deterministic turing machine with the illusion of infinite memory of course 
 // Fadel Kassab
 // 3/23/2024
 
